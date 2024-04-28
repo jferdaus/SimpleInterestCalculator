@@ -1,6 +1,6 @@
-# first_flutter_app
+# Simple_interest_calculator_app
 
-A new Flutter project.
+A new Flutter project. In this app, the user can calculate total amount by providing principal, rate of interest, term etc. If any data is missing, the app will show error message. Also, the app has reset option.
 
 ## Getting Started
 
